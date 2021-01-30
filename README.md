@@ -20,7 +20,7 @@
 
 <img width="831" alt="Screen Shot 2021-01-30 at 4 46 46 PM" src="https://user-images.githubusercontent.com/68168883/106368867-08edc880-631b-11eb-82ec-eb7f811aaab5.png">
 
-## Summmary
+## Summary
 
 - From this analysis, a much smaller than expected number of DVD reviews were from paid reviewers and the percent of 5 star reviews was only 18%.
 - A much more robust cohort of 151,400 reviews were from unpaid reviewers and more than half of them gave 5 star reviews.
